@@ -1,0 +1,12 @@
+@charset "utf-8";
+
+* { margin:0; padding:0; box-sizing:border-box}
+a { text-decoration:none; color:inherit }
+img { max-width:100%; vertical-align:middle }
+table { border-collapse: collapse; width:100% }
+ul { list-style-type:none }
+
+.row { max-width:980px; margin:0 auto }
+html body {height: 100%;}
+
+#header { background: url(../img/wedding_couple.jpg) no-repeat center;}
